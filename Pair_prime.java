@@ -8,6 +8,7 @@ public class Pair_prime {
         for(int i=a;i<=b;i++){
             if(isprime(i)){
                 if(isprime(i+6)){
+                    System.out.print("("+i+","+(i+6)+") ");
                     count++;
                 }
             }
