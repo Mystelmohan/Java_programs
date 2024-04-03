@@ -1,4 +1,4 @@
-package Java_programs;
+
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -30,5 +30,6 @@ public class UniqueNum_easy {
             }
         }
         System.out.println(count);
+        sc.close();
     }
 }

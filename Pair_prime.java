@@ -14,6 +14,7 @@ public class Pair_prime {
             }
         }
         System.out.println(count);
+        sc.close();
     }
     static boolean isprime(int n){
         if(n==0 || n==1){

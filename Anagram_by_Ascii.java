@@ -1,4 +1,4 @@
-package Java_programs;
+
 import java.util.Scanner;
 
 public class Anagram_by_Ascii {

@@ -58,5 +58,6 @@ class Nearest_prime{
 
         
     }
+    in.close();
 }
 }
